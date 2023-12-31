@@ -6,7 +6,7 @@
 ### <div align="center">I'm Oreoluwa, a Computer Engineer and Software developer 👨🏾‍💻 I have been been programming properly since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on small projects to build my resume.  
+- 🔭 I’m currently learning how to use Jenkins to create CI/CD piplines with Docker and K8S.  
   
 
 - 🌱 I’m a Backend engineer with experience in C#(ASP.NET CORE), Java(SpringBoot) and Python(ML & AI).  
